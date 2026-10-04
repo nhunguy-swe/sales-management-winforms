@@ -1,0 +1,12 @@
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\DTO\bin\Debug\DTO.dll
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\DTO\bin\Debug\DTO.pdb
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\DTO\obj\Debug\DTO.dll
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\DTO\obj\Debug\DTO.pdb
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\DTO\bin\Debug\DTO.dll
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\DTO\bin\Debug\DTO.pdb
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\DTO\obj\Debug\DTO.dll
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\DTO\obj\Debug\DTO.pdb

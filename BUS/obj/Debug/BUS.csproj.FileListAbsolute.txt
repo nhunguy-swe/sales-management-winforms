@@ -1,0 +1,33 @@
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\BUS\bin\Debug\BUS.dll
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\BUS\bin\Debug\BUS.pdb
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\BUS\bin\Debug\DAL.dll
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\BUS\bin\Debug\DTO.dll
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\BUS\bin\Debug\DAL.pdb
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\BUS\bin\Debug\DTO.pdb
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\BUS\obj\Debug\BUS.dll
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\BUS\obj\Debug\BUS.pdb
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\BUS\bin\Debug\BUS.dll
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\BUS\bin\Debug\BUS.pdb
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\BUS\bin\Debug\DAL.dll
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\BUS\bin\Debug\DTO.dll
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\BUS\bin\Debug\DAL.pdb
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\BUS\bin\Debug\DTO.pdb
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\BUS\obj\Debug\BUS.dll
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\BUS\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\BUS\bin\Debug\DTO.dll
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\BUS\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\BUS\bin\Debug\DTO.pdb
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\BUS\obj\Debug\BUS.pdb

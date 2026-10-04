@@ -1,0 +1,78 @@
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\QuanLyBanHang\bin\Debug\BUS.dll
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\QuanLyBanHang\bin\Debug\DTO.dll
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\QuanLyBanHang\bin\Debug\DAL.dll
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\QuanLyBanHang\bin\Debug\BUS.pdb
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\QuanLyBanHang\bin\Debug\DTO.pdb
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\QuanLyBanHang\bin\Debug\DAL.pdb
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\QuanLyBanHang\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.GUI_NhanVien.resources
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\QuanLyBanHang\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\QuanLyBanHang\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\QuanLyBanHang\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.GUI_KhachHang.resources
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.GUI_SanPham.resources
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.GUI_HoaDon.resources
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.GUI_CTHD.resources
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\QuanLyBanHang\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\QuanLyBanHang\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.GUI_Login.resources
+C:\Users\DELL\OneDrive\Tài liệu\QuanLyBanHang7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.GUI_Register.resources
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\BUS.dll
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\DTO.dll
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\DAL.dll
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\BUS.pdb
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\DTO.pdb
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\DAL.pdb
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.GUI_CTHD.resources
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.GUI_KhachHang.resources
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.GUI_Login.resources
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.GUI_Menu.resources
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.GUI_NhanVien.resources
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.GUI_SanPham.resources
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.GUI_NewMenu.resources
+C:\Users\DELL\OneDrive\Tài liệu\Dự án QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.GUI_HoaDon.resources
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\QuanLyBanHang\bin\Debug\BUS.dll
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\QuanLyBanHang\bin\Debug\DTO.dll
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\QuanLyBanHang\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\QuanLyBanHang\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\QuanLyBanHang\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\QuanLyBanHang\bin\Debug\BUS.pdb
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\QuanLyBanHang\bin\Debug\DTO.pdb
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\QuanLyBanHang\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\QuanLyBanHang\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\QuanLyBanHang\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.GUI_CTHD.resources
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.GUI_HoaDon.resources
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.GUI_KhachHang.resources
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.GUI_Login.resources
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.GUI_Menu.resources
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.GUI_NewMenu.resources
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.GUI_NhanVien.resources
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.GUI_SanPham.resources
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\QuanLyBanHang\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\QuanLyBanHang\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\QuanLyBanHang\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\Admin\Downloads\QuanLyBanHang-20230521T120434Z-001\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
