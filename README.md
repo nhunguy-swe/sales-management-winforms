@@ -1,4 +1,4 @@
-# QuanLyBanHang — Hệ thống Quản lý Bán hàng
+# Hệ thống Quản lý Bán hàng
 
 <p>
   <img src="https://img.shields.io/badge/C%23-.NET-purple" alt="C#">
