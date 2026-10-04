@@ -80,26 +80,6 @@ cd sales-management-winforms
 
 ---
 
-## Dọn dẹp repo (khuyến nghị)
-
-Thêm vào `.gitignore`:
-```
-.vs/
-packages/
-bin/
-obj/
-```
-
-Sau đó gỡ các thư mục này khỏi Git (vẫn giữ nguyên trên máy):
-```bash
-git rm -r --cached .vs packages
-git add .gitignore
-git commit -m "Remove .vs and packages from tracking"
-git push
-```
-
----
-
 ## Tác giả
 
 - GitHub: [@nhunguy-swe](https://github.com/nhunguy-swe)
